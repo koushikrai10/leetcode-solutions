@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/koushikrai10/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
