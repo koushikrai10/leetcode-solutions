@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/koushikrai10/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
