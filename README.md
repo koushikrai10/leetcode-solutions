@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/koushikrai10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/koushikrai10/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/koushikrai10/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/koushikrai10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
