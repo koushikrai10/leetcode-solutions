@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/koushikrai10/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/koushikrai10/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/koushikrai10/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/koushikrai10/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/koushikrai10/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/koushikrai10/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
