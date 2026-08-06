@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/koushikrai10/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/koushikrai10/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/koushikrai10/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
