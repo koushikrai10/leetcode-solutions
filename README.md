@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/koushikrai10/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/koushikrai10/leetcode-solutions/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/koushikrai10/leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
