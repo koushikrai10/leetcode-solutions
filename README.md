@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/koushikrai10/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/koushikrai10/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/koushikrai10/leetcode-solutions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/koushikrai10/leetcode-solutions/tree/master/0619-biggest-single-number) |
