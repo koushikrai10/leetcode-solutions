@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/koushikrai10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/koushikrai10/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/koushikrai10/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/koushikrai10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/koushikrai10/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/koushikrai10/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/koushikrai10/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushikrai10/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/koushikrai10/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
