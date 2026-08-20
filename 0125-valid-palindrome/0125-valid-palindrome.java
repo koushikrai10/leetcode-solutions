@@ -3,7 +3,7 @@ class Solution {
         int left=0;
         int right=s.length()-1;
 
-        while(left<right)
+        for(int i=0;i<s.length();i++)
         {
             char leftchar=s.charAt(left);
             char rightchar=s.charAt(right);
@@ -13,7 +13,7 @@ class Solution {
                 left++;
                 continue;
             }
-             if(!Character.isLetterOrDigit(rightchar))
+            if(!Character.isLetterOrDigit(rightchar))
             {
                 right--;
                 continue;
@@ -25,12 +25,11 @@ class Solution {
             if(leftchar!=rightchar)
             {
                 return false;
-
-
             }
             left++;
             right--;
         }
         return true;
+
     }
 }
